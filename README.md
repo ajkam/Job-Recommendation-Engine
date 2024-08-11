@@ -1,5 +1,6 @@
 # Job-Recommendation-Engine
 Utilizing LLMs to help reduce the cost of recruitment for SMEs
+- Link to Demo Slide: https://drive.google.com/file/d/1ZrRiqCFwktKwrut7865mjDi2-eL5ckxA/view?usp=sharing
 
 This repository contains the comprehensive work related to the development of a Job Recommendation System, which includes both the Job Recommendation Engine and the Hiring Application. These two components work together to enhance the job search experience for job seekers and streamline the hiring process for recruiters.
 
